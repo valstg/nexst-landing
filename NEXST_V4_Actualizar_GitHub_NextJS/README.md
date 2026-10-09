@@ -1,7 +1,13 @@
-NEXST Landing V4 (Next.js)
+# NEXST Landing V5 — Next.js
 
-Reemplazar el contenido de la carpeta nexst-v2 del repositorio con estos archivos. Mantener Root Directory en nexst-v2 si ya está configurado en Vercel.
+Landing responsive para Vercel, basada en V4 con un diseño más aireado. Incluye cinta animada, demo navegable, tooltip de barras, venta de prueba, formulario de alta de productos (solo en memoria) y logo oficial extraído de la referencia facilitada.
 
-Logo de palabra recortado de la captura de la aplicación provista; para máxima nitidez se recomienda reemplazar nexst-wordmark-app.png por el archivo vectorial oficial.
+## Actualizar tu Vercel existente
+1. Abrí el repositorio GitHub conectado con Vercel.
+2. **En la raíz del repositorio** reemplazá `app/`, `public/`, `package.json` y `README.md` por los del ZIP (no crees una carpeta anidada `nexst-v5`).
+3. Hacé commit en la rama que Vercel usa para producción (normalmente `main`).
+4. Vercel despliega automáticamente. Framework: Next.js; Root Directory: `./` (raíz).
 
-Demo ficticia: filtros de órdenes, detalles, stock, búsqueda, venta de prueba, cambio de período y animaciones. WhatsApp +54 9 11 2476-6677.
+Para probar localmente: `npm install && npm run dev`.
+
+Contacto WhatsApp: +54 9 11 2476-6677. Los datos de la demo son ficticios.
