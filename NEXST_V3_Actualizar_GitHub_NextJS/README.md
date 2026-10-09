@@ -1,0 +1,1 @@
+NEXST Landing V3 — Next.js. Reemplazá app/, public/, package.json y README.md dentro de nexst-v2. Conservá la configuración actual de Vercel (Root Directory: nexst-v2). WhatsApp: +54 9 11 2476-6677. Los datos de la demo son ficticios.
